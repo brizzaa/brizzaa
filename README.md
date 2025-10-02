@@ -11,6 +11,7 @@ Always exploring new ways to grow as a developer and as a person!
 ### My Projects
 Check out my portfolio → [**luca-brizzante.vercel.app**](https://luca-brizzante.vercel.app)
 
+---
 
 ### Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-brizzante-06897a33b)
