@@ -1,6 +1,6 @@
 # 👋🏻 HI! I'm Luca!
 
-### 🌟 About me
+### About me
  I'm 21 , passionate about **web development** and **graphic design**.  
 I love crafting digital experiences that blend **clean code** and **creativity**.  
 Beyond coding, I enjoy playing music and reading books on **self-improvement** and **design inspiration**.  
@@ -8,11 +8,11 @@ Always exploring new ways to grow as a developer and as a person!
 
 ---
 
-### 🚀 My Projects
+### My Projects
 Check out my portfolio → [**luca-brizzante.vercel.app**](https://luca-brizzante.vercel.app)
 
 
-### 🌐 Get in touch
+### Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-brizzante-06897a33b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brizza.__)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.brizza)
