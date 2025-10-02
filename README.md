@@ -1,26 +1,41 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&weight=600&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=460&height=100&lines=Full-stack++Web+Developer;Open+to+work!)](https://git.io/typing-svg)
----
-Check out my projects at [**luca-brizzante.vercel.app**](https://luca-brizzante.vercel.app)
+# 👋🏻 HI! I'm Luca!
 
-### Connect with me
+### 🌟 About me
+ I'm 21 , passionate about **web development** and **graphic design**.  
+I love crafting digital experiences that blend **clean code** and **creativity**.  
+Beyond coding, I enjoy playing music and reading books on **self-improvement** and **design inspiration**.  
+Always exploring new ways to grow as a developer and as a person!
+
+---
+
+### 🚀 My Projects
+Check out my portfolio → [**luca-brizzante.vercel.app**](https://luca-brizzante.vercel.app)
+
+
+### 🌐 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-brizzante-06897a33b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brizza.__)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/.brizza)
 
 ---
 
-### My tools
+### My tech stack
+
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" alt="Frontend stack icons" />
 
 #### Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres" alt="Backend and database stack icons" />
 
-#### Design and other tools
-<img src="https://skillicons.dev/icons?i=git,linux,figma,postman,ps,ai" />
+#### Design & Other Tools
+<img src="https://skillicons.dev/icons?i=git,linux,figma,postman,ps,ai" alt="Design and utility tools icons" />
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzaa&layout=compact&theme=dark)  
+
+### 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzaa&layout=compact&theme=dark)
+
+
 
 
