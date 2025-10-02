@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Mono&weight=600&size=30&duration=2000&pause=1000&color=000000&background=FFFFFF&center=false&vCenter=true&width=460&height=50&lines=Full-stack++Web+Developer;Open+to+work!)](https://git.io/typing-svg)
+---
 Check out my projects at [**luca-brizzante.vercel.app**](https://luca-brizzante.vercel.app)
 
 ### Connect with me
