@@ -1,4 +1,8 @@
-# 👋🏻 HI! I'm Luca!
+
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="80" height="80">
+  <h1 style="text-align:center"> Hello world! i'm Luca </h1>
+</p>
 
 ### About me
  I'm 21 , passionate about **web development** and **graphic design**.  
